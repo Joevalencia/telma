@@ -49,7 +49,7 @@ Examples
 ### The question: do I want to plot more cohorts?
 ##### Follow the same steps as OneLife ().lifeplot but with:
 
-* MultipleLives $\rightarrow$ **lifeplot_2** method
+* MultipleLives -> **lifeplot_2** method
 * **Two cohorts**. That is, by default at least two parameters will be needed; $ l_x $ and $l_y$ the cohort functions 
 * A third cohort can be passed, if perhaps you want to confront a model.
 
