@@ -1,5 +1,6 @@
-# telma
-Welcomo to Telma's Library.
+# Telma
+
+Welcome to Telma's Library.
 
 ![image](https://user-images.githubusercontent.com/67124439/126873444-3ee1e47d-f833-42da-bb75-6c4818c94c66.png)
 
@@ -33,8 +34,15 @@ Invoking OneLife, *lifeplot* method has as parameters:
 * **death**. It refers to the numbers of death chart $d(x)$, if True when plotting interactively it will show the number of death chart.
 * **qx_log**. It refers to the probability of death in logarithmic scale, that is $log(q(x))$. If True when plotting interactively it will show $log(q(x))$.
 
+Examples
+* OneLife
+![image](https://user-images.githubusercontent.com/67124439/126873650-ccbee964-f0c1-4ff0-aaef-117e811b8687.png)
 
+##### Mortality Hump
 
+![image](https://user-images.githubusercontent.com/67124439/126873678-74dd3518-78e4-4265-8c1a-fac9d3fdc5da.png)
+
+---
 
 ##### MultipleLives
 
@@ -50,4 +58,6 @@ Invoking OneLife, *lifeplot* method has as parameters:
 
 ![image](https://user-images.githubusercontent.com/67124439/126873575-399c4389-3696-48fc-9986-c15a3d094b61.png)
 
-For view some example of interactive plot, click the following link. [1 Plotting Telma](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/1%20Plotting-example.ipynb)
+For view some examples interactively please, click the following link. [1 Plotting Telma](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/1%20Plotting-example.ipynb)
+
+
