@@ -58,7 +58,8 @@ Examples
 
 ![image](https://user-images.githubusercontent.com/67124439/126873575-399c4389-3696-48fc-9986-c15a3d094b61.png)
 ---
-# For view some examples interactively please, click the following link. In fact, it is not possible visualize plotly chart from github. [1 Plotting Telma](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/1%20Plotting-example.ipynb)
+# For view some examples interactively please, click the following link. In fact, it is not possible visualize plotly chart from github. 
+[1 Plotting Telma](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/1%20Plotting-example.ipynb)
 ---
 ### For more examples click the following links:
 
