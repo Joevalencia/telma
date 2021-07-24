@@ -70,5 +70,5 @@ Examples
 [InsuranceBenefits](https://github.com/Joevalencia/telma/blob/main/4%20Insurance%20Benefits%20-%20example.ipynb)
 
 ---
-Telma - Documentation [docs](https://htmlpreview.github.io/?https://github.com/Joevalencia/telma/blob/main/telma%20docs.html)
+Telma - Documentation [docs](https://htmlpreview.github.io/?https://github.com/Joevalencia/telma/blob/main/telma%20docus.html)
 ---
