@@ -7,11 +7,14 @@ Welcome to Telma's Library.
 This library is composed by 5 Classes. Namely:
 
 * BiometricModel.
+* Datasets
 * OneLife
 * MultipleLives
 * SpainOperation
 * InsuranceBenefits
 
+Datasets class permits using some datasets
+---
 Plotting functions are located in **OneLife** or **MultiplesLives** classes.
 
 Besides the "classic static" manner of plotting in life actuarial science. **<font color='navy'>Telma</font>** permits plotting charts **interactively.**
