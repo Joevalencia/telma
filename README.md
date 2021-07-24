@@ -1,7 +1,9 @@
 # Telma
 
 Welcome to Telma's Library.
-
+---
+##### pip install telma==1.0.4 or !pip install telma==1.0.4
+---
 ![image](https://user-images.githubusercontent.com/67124439/126873444-3ee1e47d-f833-42da-bb75-6c4818c94c66.png)
 
 This library is composed by 5 Classes. Namely:
