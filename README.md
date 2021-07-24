@@ -62,9 +62,9 @@ Examples
 ---
 ### For more examples click the following links:
 
-[BiometricModel]
+[BiometricModel](https://github.com/Joevalencia/telma/blob/main/2%20Biometric%20Model%20-%20example.ipynb)
 
-[SpainOperation]
+[SpainOperation](https://github.com/Joevalencia/telma/blob/main/3%20SpainOperation%20-%20example.ipynb)
 
-[InsuranceBenefits]
+[InsuranceBenefits](https://github.com/Joevalencia/telma/blob/main/4%20Insurance%20Benefits%20-%20example.ipynb)
 
