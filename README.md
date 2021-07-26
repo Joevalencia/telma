@@ -71,6 +71,7 @@ Examples
 [BiometricModel](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/2%20Biometric%20Model%20-%20example.ipynb)
 
 [SpainOperation](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/3%20SpainOperation%20-%20example.ipynb)
+[Espanya](https://github.com/Joevalencia/telma/blob/main/3%20SpainOPerations.ipynb)
 
 [InsuranceBenefits](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/3%20SpainOperation%20-%20example.ipynb)
 
