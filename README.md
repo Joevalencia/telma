@@ -68,11 +68,11 @@ Examples
 ---
 ### For more examples click the following links:
 
-[BiometricModel](https://github.com/Joevalencia/telma/blob/main/2%20Biometric%20Model%20-%20example.ipynb)
+[BiometricModel](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/2%20Biometric%20Model%20-%20example.ipynb)
 
-[SpainOperation](https://github.com/Joevalencia/telma/blob/main/3%20SpainOperation%20-%20example.ipynb)
+[SpainOperation](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/3%20SpainOperation%20-%20example.ipynb)
 
-[InsuranceBenefits](https://github.com/Joevalencia/telma/blob/main/4%20Insurance%20Benefits%20-%20example.ipynb)
+[InsuranceBenefits](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/4%20Insurance%20Benefits%20-%20example.ipynb)
 
 ---
 Telma - Documentation [docs](https://htmlpreview.github.io/?https://github.com/Joevalencia/telma/blob/main/telma%20docus.html)
