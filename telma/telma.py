@@ -1275,7 +1275,7 @@ class SpainOperation:
 
         return renta
 
-        def renta_geometrica2(self, tabla_mortalidad, x: int, n: int = 120, m: int = 0,
+            def renta_geometrica2(self, tabla_mortalidad, x: int, n: int = 120, m: int = 0,
                           h: int = 1, h1: int = 1, capital: float = 500, q0: float = .015, interest: float = .02,
                           birth_year: int = 1964, pospagable: str = 'no'):
         """
@@ -1337,7 +1337,7 @@ class SpainOperation:
                 v = (1 + interest) ** -(t / h1)
                 p = jj[x * h1 + t] / jj[x * h1]
             else:
-                t = np.arange((m * h * k), (n * h * k))
+                t = np.arange((m * h * k), ((m+n) * h * k))
                 v = (1 + interest) ** -((t + 1) / h * k)
                 p = jj[x * h * k + t + 1] / jj[x * h * k]
 
