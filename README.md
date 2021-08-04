@@ -70,8 +70,9 @@ Examples
 
 [BiometricModel](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/2%20Biometric%20Model%20-%20example.ipynb)
 
-[SpainOperation](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/3%20SpainOperation%20-%20example.ipynb)
-[Espanya](https://github.com/Joevalencia/telma/blob/main/3%20SpainOPerations.ipynb)
+[SpainOperation](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/3%20SpainOPerations.ipynb) (english)
+
+[Espanya](https://github.com/Joevalencia/telma/blob/main/3%20SpainOPerations.ipynb)(spanish)
 
 [InsuranceBenefits](https://nbviewer.jupyter.org/github/Joevalencia/telma/blob/main/4%20Insurance%20Benefits%20-%20example.ipynb)
 
